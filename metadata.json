@@ -1,0 +1,6 @@
+{
+  "name": "Stripe Tokenization Studio",
+  "description": "Developer console for Stripe credit card tokenization, PaymentMethod generation, PCI-DSS compliance inspection, and test card validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
